@@ -1,7 +1,5 @@
 import '../index.css'
 import './battleend.css'
-import thumb_up from '../assets/images/thumb_up.png'
-import thumb_down from '../assets/images/thumb_down.png'
 import { useLocation, useNavigate } from "react-router-dom";
 import {useState} from 'react';
 const Battleend = () => {
@@ -17,8 +15,8 @@ const Battleend = () => {
     <div className="question_layout">
       <div className="question">Did you have a good time?</div>
       <div className="thumb">
-        <img onClick={()=>setIsActiveLeft(true)} className={(isActiveRight ? 'hide' : '' )+" "+(isActiveLeft ? 'animated' : '')+ " img img_up"} src={thumb_up} />
-        <img onClick={()=>setIsActiveRight(true)} className={(isActiveLeft ? 'hide' : '' )+" "+(isActiveRight ? 'animated' : '')+ " img img_down"} src={thumb_down} />
+        <img onClick={()=>setIsActiveLeft(true)} className={(isActiveRight ? 'hide' : '' )+" "+(isActiveLeft ? 'animated' : '')+ " img img_up"} src='/images/thumb_down.png' />
+        <img onClick={()=>setIsActiveRight(true)} className={(isActiveLeft ? 'hide' : '' )+" "+(isActiveRight ? 'animated' : '')+ " img img_down"} src='/images/thumb_up.png' />
       </div>
       
     </div>
