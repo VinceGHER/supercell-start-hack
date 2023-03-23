@@ -1,0 +1,9 @@
+.goHome {
+    width: 80px;
+    height: 70px;
+    background-color: transparent;
+    position: absolute;
+    left: 120px;
+    bottom: 0px;
+    border-radius: 5px;
+}

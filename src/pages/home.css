@@ -1,0 +1,46 @@
+.goChat {
+    width: 80px;
+    height: 70px;
+    background-color: transparent;
+    position: absolute;
+    left: 240px;
+    bottom: 0px;
+    border-radius: 5px;
+}
+.goBattle {
+    width: 150px;
+    height: 80px;
+    background-color: transparent;
+    position: absolute;
+    left: 120px;
+    bottom: 250px;
+    border-radius: 5px;
+}
+.goProfile {
+    width: 220px;
+    height: 100px;
+    background-color: transparent;
+    position: absolute;
+    left: 0px;
+    top: 70px;
+    border-radius: 5px;
+}
+.test {
+    position: absolute;
+    top: 100px;
+    right:15px;
+    opacity: 0;
+    -webkit-animation: slide 6s forwards;
+    animation: slide 6s forwards;
+    animation-delay: 0.6s;
+}
+
+.img_home {
+    width: 100px;
+    height: 90px;
+}
+
+@keyframes slide {
+    0% {opacity: 1;}
+    100% { transform: translateY(-30px);opacity: 0;}
+}

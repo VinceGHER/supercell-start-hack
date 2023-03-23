@@ -1,0 +1,41 @@
+.img_profile {
+    width: 100%;
+    height: 100%;
+}
+
+.goHome3 {
+    width: 40px;
+    height: 40px;
+    background-color: transparent;
+    position: absolute;
+    right: 10px;
+    top: 85px;
+}
+.goQuiz {
+    width: 40px;
+    height: 40px;
+    background-color: transparent;
+    position: absolute;
+    right: 10px;
+    top: 15px;
+}
+.quiz {
+    position: absolute;
+    right: 30px;
+    bottom: 229px;
+    width: 160px;
+}
+.quiz:hover{
+    transform: scale(1.08);
+    transition: 0.5s;
+}
+.score {
+    position: absolute;
+    left: 35px;
+    bottom: 229px;
+    width: 160px;
+}
+.score:hover{
+    transform: scale(1.08);
+    transition: 0.5s;
+}
