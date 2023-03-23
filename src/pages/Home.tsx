@@ -1,5 +1,5 @@
 import { useEffect,useRef } from 'react';
-import video from '../assets/videos/home.mp4';
+import video from '..//assets/video/home.mp4';
 import '../index.css'
 import './home.css'
 import thumb_down from '../assets/images/thumb_down.png'
