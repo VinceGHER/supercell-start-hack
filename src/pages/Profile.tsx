@@ -5,9 +5,9 @@ import { useNavigate } from "react-router-dom";
 const Profile = () => {
     const navigate = useNavigate();
     return <div>
-       <img src="/images/profile.jpg" className="img_profile" />
-       <img src="/images/score.jpg" className="score" />
-       <img src="/images/quiz.jpg" onClick={()=>navigate("/quiz")} className="quiz" />
+       <img src="https://github.com/VinceGHER/supercell-start-hack/raw/main/src/profile.jpg" className="img_profile" />
+       <img src="https://github.com/VinceGHER/supercell-start-hack/raw/main/src/score.jpg" className="score" />
+       <img src="https://github.com/VinceGHER/supercell-start-hack/raw/main/src/quiz.jpg" onClick={()=>navigate("/quiz")} className="quiz" />
     <div className="goHome3" onClick={()=>navigate("/home")}></div>
     </div>
   };

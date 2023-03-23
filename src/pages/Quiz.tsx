@@ -9,7 +9,7 @@ const Profile = () => {
         {
             {
             0: <div>
-                <img src="/images/q1.jpg" className="full_image" />
+                <img src="https://github.com/VinceGHER/supercell-start-hack/raw/main/src/q1.jpg" className="full_image" />
                 <div className="answer_layout">
                     <div className="answer" onClick={()=>setNumber(1)}>A. Reply "no" to let zero to know he/she is annoying</div> 
                     <div className="answer" onClick={()=>setNumber(1)}>B. Reply "shuuuuuut **the hell** uuuuppp"</div> 
@@ -18,7 +18,7 @@ const Profile = () => {
                 </div>
                 </div>,
             1: <div>
-                <img src="/images/q2.jpg" className="full_image" />
+                <img src="https://github.com/VinceGHER/supercell-start-hack/raw/main/src/q2.jpg" className="full_image" />
                 <div className="answer_layout">
                     <div className="answer" onClick={()=>setNumber(2)}>A. Report this behavior to the clan leader {'\n'}</div> 
                     <div className="answer" onClick={()=>setNumber(2)}>B. Reply "guys stop it's not nice"{'\n'}</div> 
@@ -27,7 +27,7 @@ const Profile = () => {
                 </div>
                 </div>,
             2: <div>
-                <img src="/images/q3.jpg" className="full_image" />
+                <img src="https://github.com/VinceGHER/supercell-start-hack/raw/main/src/q3.jpg" className="full_image" />
                 <div className="answer_layout">
                     <div className="answer" onClick={()=>navigate("/home")}>A. Report the player to system</div> 
                     <div className="answer" onClick={()=>navigate("/home")}>B. Ignore them for a few hours"</div> 

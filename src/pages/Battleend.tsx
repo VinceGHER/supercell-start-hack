@@ -15,8 +15,8 @@ const Battleend = () => {
     <div className="question_layout">
       <div className="question">Did you have a good time?</div>
       <div className="thumb">
-        <img onClick={()=>setIsActiveLeft(true)} className={(isActiveRight ? 'hide' : '' )+" "+(isActiveLeft ? 'animated' : '')+ " img img_up"} src='/images/thumb_down.png' />
-        <img onClick={()=>setIsActiveRight(true)} className={(isActiveLeft ? 'hide' : '' )+" "+(isActiveRight ? 'animated' : '')+ " img img_down"} src='/images/thumb_up.png' />
+        <img onClick={()=>setIsActiveLeft(true)} className={(isActiveRight ? 'hide' : '' )+" "+(isActiveLeft ? 'animated' : '')+ " img img_up"} src='https://github.com/VinceGHER/supercell-start-hack/raw/main/src/thumb_down.png' />
+        <img onClick={()=>setIsActiveRight(true)} className={(isActiveLeft ? 'hide' : '' )+" "+(isActiveRight ? 'animated' : '')+ " img img_down"} src='https://github.com/VinceGHER/supercell-start-hack/raw/main/src/thumb_up.png' />
       </div>
       
     </div>

@@ -15,7 +15,7 @@ const Home = () => {
     <source src="https://github.com/VinceGHER/supercell-start-hack/raw/main/src/home.mp4" type='video/mp4' />
     </video>
     <div className="goChat" onClick={()=>navigate("/chat")}></div>
-    <img className={(from == "/battleend" ? "test": "hide" )+" "+"img_home"} src="/images/thumb_down.png" />
+    <img className={(from == "/battleend" ? "test": "hide" )+" "+"img_home"} src="https://github.com/VinceGHER/supercell-start-hack/raw/main/src/thumb_down.png" />
     <div className="goBattle" onClick={()=>navigate("/battleacc")}></div>
     <div className="goProfile" onClick={()=>navigate("/profile")}></div>
 
