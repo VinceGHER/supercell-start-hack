@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "./static/css/main.a969c602.css",
-    "main.js": "./static/js/main.1c848b5f.js",
-    "static/js/787.c1112931.chunk.js": "./static/js/787.c1112931.chunk.js",
-    "static/media/intro.mp4": "./static/media/intro.ecd09645a61d583d4700.mp4",
-    "static/media/battleend.mp4": "./static/media/battleend.81fdb8ca3d98e56ab855.mp4",
-    "static/media/home.mp4": "./static/media/home.26634aa58950a5cbddaa.mp4",
-    "static/media/profile.jpg": "./static/media/profile.048453cb0a37874cab2f.jpg",
-    "static/media/q2.jpg": "./static/media/q2.ba5b5ae938ffaa0f6691.jpg",
-    "static/media/q3.jpg": "./static/media/q3.5d142bafb333dd483387.jpg",
-    "static/media/q1.jpg": "./static/media/q1.a5f92f0119b5cc76db79.jpg",
-    "static/media/thumb_down.png": "./static/media/thumb_down.5a0eda54777bc68ff280.png",
-    "static/media/chat.mp4": "./static/media/chat.463302cbcc693c26536d.mp4",
-    "static/media/thumb_up.png": "./static/media/thumb_up.3203cc6ebeaa98059f36.png",
-    "static/media/You Blockhead.ttf": "./static/media/You Blockhead.cd01556810e60d510ff6.ttf",
-    "static/media/battleacc.mp4": "./static/media/battleacc.e623917c6e67270e690b.mp4",
-    "static/media/score.jpg": "./static/media/score.b611956a87e1b7d84102.jpg",
-    "static/media/quiz.jpg": "./static/media/quiz.7e87b49fc12800062166.jpg",
-    "index.html": "./index.html",
-    "main.a969c602.css.map": "./static/css/main.a969c602.css.map",
-    "main.1c848b5f.js.map": "./static/js/main.1c848b5f.js.map",
-    "787.c1112931.chunk.js.map": "./static/js/787.c1112931.chunk.js.map"
+    "main.css": "/VinceGHER/supercell-start-hack/static/css/main.76e577be.css",
+    "main.js": "/VinceGHER/supercell-start-hack/static/js/main.ce6e38fc.js",
+    "static/js/787.c1112931.chunk.js": "/VinceGHER/supercell-start-hack/static/js/787.c1112931.chunk.js",
+    "static/media/intro.mp4": "/VinceGHER/supercell-start-hack/static/media/intro.ecd09645a61d583d4700.mp4",
+    "static/media/battleend.mp4": "/VinceGHER/supercell-start-hack/static/media/battleend.81fdb8ca3d98e56ab855.mp4",
+    "static/media/home.mp4": "/VinceGHER/supercell-start-hack/static/media/home.26634aa58950a5cbddaa.mp4",
+    "static/media/profile.jpg": "/VinceGHER/supercell-start-hack/static/media/profile.048453cb0a37874cab2f.jpg",
+    "static/media/q2.jpg": "/VinceGHER/supercell-start-hack/static/media/q2.ba5b5ae938ffaa0f6691.jpg",
+    "static/media/q3.jpg": "/VinceGHER/supercell-start-hack/static/media/q3.5d142bafb333dd483387.jpg",
+    "static/media/q1.jpg": "/VinceGHER/supercell-start-hack/static/media/q1.a5f92f0119b5cc76db79.jpg",
+    "static/media/thumb_down.png": "/VinceGHER/supercell-start-hack/static/media/thumb_down.5a0eda54777bc68ff280.png",
+    "static/media/chat.mp4": "/VinceGHER/supercell-start-hack/static/media/chat.463302cbcc693c26536d.mp4",
+    "static/media/thumb_up.png": "/VinceGHER/supercell-start-hack/static/media/thumb_up.3203cc6ebeaa98059f36.png",
+    "static/media/You Blockhead.ttf": "/VinceGHER/supercell-start-hack/static/media/You Blockhead.cd01556810e60d510ff6.ttf",
+    "static/media/battleacc.mp4": "/VinceGHER/supercell-start-hack/static/media/battleacc.e623917c6e67270e690b.mp4",
+    "static/media/score.jpg": "/VinceGHER/supercell-start-hack/static/media/score.b611956a87e1b7d84102.jpg",
+    "static/media/quiz.jpg": "/VinceGHER/supercell-start-hack/static/media/quiz.7e87b49fc12800062166.jpg",
+    "index.html": "/VinceGHER/supercell-start-hack/index.html",
+    "main.76e577be.css.map": "/VinceGHER/supercell-start-hack/static/css/main.76e577be.css.map",
+    "main.ce6e38fc.js.map": "/VinceGHER/supercell-start-hack/static/js/main.ce6e38fc.js.map",
+    "787.c1112931.chunk.js.map": "/VinceGHER/supercell-start-hack/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a969c602.css",
-    "static/js/main.1c848b5f.js"
+    "static/css/main.76e577be.css",
+    "static/js/main.ce6e38fc.js"
   ]
 }
