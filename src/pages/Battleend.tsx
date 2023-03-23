@@ -1,4 +1,3 @@
-import video from '../assets/videos/battleend.mp4';
 import '../index.css'
 import './battleend.css'
 import thumb_up from '../assets/images/thumb_up.png'
@@ -12,7 +11,7 @@ const Battleend = () => {
     const { pathname } = useLocation();
     return <div>
        <video autoPlay className="video" muted id='video'>
-    <source src={video} type='video/mp4' />
+    <source src="https://github.com/VinceGHER/supercell-start-hack/raw/main/src/battleend.mp4" type='video/mp4' />
     </video>
     <div className="goHome2" onClick={()=>navigate("/home",{state:{ from: pathname}})}></div>
     <div className="question_layout">

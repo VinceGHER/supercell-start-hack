@@ -1,4 +1,3 @@
-import video from '../assets/videos/intro.mp4';
 import '../index.css'
 import React, { useRef } from 'react';
 import useTimeout from './Timeout';
@@ -11,7 +10,7 @@ const Intro = () => {
     navigate("/home");
   }, 6000);
     return <video autoPlay className="video" loop muted id='video'>
-      <source src={video} type='video/mp4' />
+      <source src="https://github.com/VinceGHER/supercell-start-hack/raw/main/src/intro.mp4" type='video/mp4' />
     </video>
   };
   

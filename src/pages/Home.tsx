@@ -1,5 +1,5 @@
 import { useEffect,useRef } from 'react';
-import video from '..//assets/video/home.mp4';
+
 import '../index.css'
 import './home.css'
 import thumb_down from '../assets/images/thumb_down.png'
@@ -12,7 +12,7 @@ const Home = () => {
  
     return <div>
        <video autoPlay className="video" loop muted id='video'>
-    <source src={video} type='video/mp4' />
+    <source src="https://github.com/VinceGHER/supercell-start-hack/raw/main/src/home.mp4" type='video/mp4' />
     </video>
     <div className="goChat" onClick={()=>navigate("/chat")}></div>
     <img className={(from == "/battleend" ? "test": "hide" )+" "+"img_home"} src={thumb_down} />
